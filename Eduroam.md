@@ -4,13 +4,15 @@
 
 [Tuto de L'université de Lorraine](https://wiki.univ-lorraine.fr/bin/view/publique/dn/com/wifi/Configurateur%20WiFi/)
 
-## OS Selection
+## Sommaire
 
 - [Linux](#linux)
 - [Macos](#macos)
 - [Windows](#windows)
 - [Android](#android)
 - [iOS](#ios)
+- [Problèmes Récurrents](#problèmes-récurrents)
+- [Annexes](#annexes)
 
 ## Eduroam Version PC
 
@@ -152,6 +154,20 @@ Si vous n'arrivez pas à vous connecter cf [Problème Récurrents](#problèmes-r
 
 Si vous n'arrivez pas à vous connecter cf [Problème Récurrents](#problèmes-récurrents)
 
+## Problèmes Récurrents
+
+Si ça ne marche pas refaite l'opération mais en ***vérifiant très bien votre mot de passe*** J'ai déjà eu quelqu'un qui était persuadé d'avoir mis le bon mot de passe.
+Vous pouvez copier votre mot de passe mis pour vous connecté à Arche
+Ou vous pouvez utiliser un Password Manager comme BitWarden ou ProtonPass (Team Bitwarden)
+
+Si ça ne marche toujours pas:
+
+Vérifiez que vous avez bien mis 2 'r' à lorraine. ça m'est déja arrivé 
+
+Si vous êtes sûr d'avoir correctement fait chaques étapes mais que vous n'êtes toujours pas connecté, vous êtes potentiellement banni du système informatique de L'université de Lorraine. Pas de panique, L'univ ban toute utilisation de VPN donc si vous avez utilisé un VPN comme NordVPN ou autre, il faut aller voir Monsieur Bouthier étage 1 côté Aile nord pour lui demander de vous debannir.
+
+## Annexes
+
 ### Configuration Manuel
 
 Si vous avez besoin de configurer la connexion eduroam à la main. Voici un exemple de configuration
@@ -210,15 +226,3 @@ Si vous n'arrivez pas à vous connecter cf [Problème Récurrents](#problèmes-r
 #### Lien utile
 
 https://wiki.univ-lorraine.fr/bin/view/publique/dn/com/wifi/Archives%20-%20M%C3%A9thodes%20obsol%C3%A8tes/PersUL%20-%20Linux%20Ubuntu/?srid=u5H5omph#HImportationdel27autoritE9decertification
-
-### Problèmes Récurrents
-
-Si ça ne marche pas refaite l'opération mais en ***vérifiant très bien votre mot de passe*** J'ai déjà eu quelqu'un qui était persuadé d'avoir mis le bon mot de passe.
-Vous pouvez copier votre mot de passe mis pour vous connecté à Arche
-Ou vous pouvez utiliser un Password Manager comme BitWarden ou ProtonPass (Team Bitwarden)
-
-Si ça ne marche toujours pas:
-
-Vérifiez que vous avez bien mis 2 'r' à lorraine. ça m'est déja arrivé 
-
-Si vous êtes sûr d'avoir correctement fait chaques étapes mais que vous n'êtes toujours pas connecté, vous êtes potentiellement banni du système informatique de L'université de Lorraine. Pas de panique, L'univ ban toute utilisation de VPN donc si vous avez utilisé un VPN comme NordVPN ou autre, il faut aller voir Monsieur Bouthier étage 1 côté Aile nord pour lui demander de vous debannir.

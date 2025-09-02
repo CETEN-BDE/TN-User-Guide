@@ -1,10 +1,10 @@
 # VPN
 
-## OS Selection
+## Sommaire
 
-[Linux](#vpn-linux)
-[Macos](#vpn-macos)
-[Windows](#vpn-windows)
+- [Linux](#vpn-linux)
+- [Macos](#vpn-macos)
+- [Windows](#vpn-windows)
 
 ## VPN Macos
 
@@ -135,8 +135,8 @@ Si vous voulez éviter de devoir le taper à chaque fois
 
 Crée un fichier VPNTN.conf puis mettez votre mots de passe dedans 
 
-/!\ Attention /!\ Ceci est potentiellement dangereux si votre disque n'est pas chiffré puisque on peut lire votre disque depuis un clé bootable par exemple. A vous de voir si vous avez peur des attaque physique bien que très improbable (vol ordinateur, etc ...).
-Pensez bien aux permissions d'accès à ce fichier qui  doivent être administrateur
+***/!\ Attention /!\ Ceci est potentiellement dangereux si votre disque n'est pas chiffré puisque on peut lire votre disque depuis un clé bootable par exemple. A vous de voir si vous avez peur des attaque physique bien que très improbable (vol ordinateur, etc ...).
+Pensez bien aux permissions d'accès à ce fichier qui  doivent être administrateur***
 
 Voici les commandes pour le faire
 ```bash

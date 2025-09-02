@@ -1,21 +1,63 @@
 # Mail
 
-## Mail Selection
+## Sommaire
 
-[Gmail](#gmail)
-[Thunderbird](#thunderbird)
+- [Gmail](#gmail) 
+- [Thunderbird](#thunderbird)
+- [Annexe](#annexe)
 
 ### Interface Web
 
 https://roundcube.telecomnancy.eu/ \
 https://webmail.telecomnancy.eu/SOGo/so/
 
-LoginUL
+LoginUL \
 MotDePasseDeL'UL
 
 ### Connecter sa .eu à Gmail ou Thunderbird
 
-#### Gmail
+## Gmail
+
+#### Mobile (Android / IOS)
+
+Ouvrez l'application Gmail.
+
+En haut à droite, appuyez sur votre photo de profil
+
+Cliquez sur Ajouter un autre compte.
+
+<img src="mail/mail_gmail_app_1.png" alt="Eduraom_tel_2" width="400"/>
+
+Cliquez sur Autre
+
+<img src="mail/mail_gmail_app_2.png" alt="Mail Gmail App 2"
+width="400"/>
+
+Remplacez prenom et nom par votre Prenom et votre Nom
+
+<img src="mail/mail_gmail_app_3.png" alt="Mail Gmail App 3"
+width="400/>
+
+Cliquez Sur Personnel (IMAP)
+
+<img src="mail/mail_gmail_app_4.png" alt="Mail Gmail App 4"
+width="400"/>
+
+Mettez votre mots de passe de L'UL
+
+<img src="mail/mail_gmail_app_5.png" alt="Mail Gmail App 5"
+width="400"/>
+
+Il faut changer le serveur par imap.telecomnancy.eu
+
+Puis faites suivant et vous avez votre mail .eu sur gmail
+
+#### Web
+
+<details>
+<summary>Tuto Interdit par l'UL</summary>
+
+***Attention : Ce tutoriel est déconseillé, car il entraîne le stockage de votre mot de passe UL en clair (non chiffré) sur les serveurs de Google, ce qui est contraire aux règles de l'UL.***
 
 Allez dans les paramètres de gmail
 
@@ -45,7 +87,9 @@ Pour envoyer des mails avec ta *@telecomnancy.eu*
 
 ![Mail Gmail 5](mail/mail_gmail_5.png)
 
-#### Thunderbird
+</details>
+
+## Thunderbird
 
 On clique sur la roue cranté en bas à droite
 ![Mail Thunderbird 1](mail/mail_thunderbird_1.png)
@@ -60,20 +104,22 @@ On remplie les paramètres
 On appuie sur **test**, et si c'est bon, on clique sur **done**
 ![Mail Thunderbird 6](mail/mail_thunderbird_6.png)
 
-## Mail de L'UL
+## Annexes
+
+### Mail de L'UL
 
 ![Mail UL 2](mail/mail_ul2.png)
 
-### Interface Web
+#### Interface Web
 
 https://mail.univ-lorraine.fr/
 
-### Redirection
+#### Redirection
 
 Mettez une redirection vers l'adresse mail de votre choix
 https://sesame.univ-lorraine.fr/account/redirection
 
-### Connexion
+#### Connexion
 
 Si vous avez besoin de vous connecter voici les informations
 
@@ -81,17 +127,17 @@ Si vous avez besoin de vous connecter voici les informations
 
 prenom.nom@etu.univ-lorraine.fr
 
-#### IMAP
+##### IMAP
 imap.etu.univ-lorraine.fr
 SSL/TLS - port 993
 
-#### SMTP
+##### SMTP
 smtp.etu.univ-lorraine.fr
 SARTTLS - port 587
 
-#### Identification
+##### Identification
 "loginUL"@etu.univ-lorraine.fr
 
-## Source 
+### Source 
 
 ![Mail TN](mail/mail_tn.png)

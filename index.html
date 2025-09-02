@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guide d'utilisation TN</title>
-    <script src="https://cdn.jsdelivr.net/npm/marked@5.1.2/lib/marked.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked-gfm-heading-id/lib/index.umd.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -383,12 +384,8 @@
         // ====================================================================
         // On configure marked une seule fois pour toute l'application.
         // - gfm: true -> Active le mode "GitHub Flavored Markdown" (tableaux, etc.) et la création d'ID pour les titres.
-        // - mangle: false -> Empêche marked de modifier les ID (parfois il ajoute des nombres aléatoires).
-        marked.setOptions({
-            gfm: true,
-            mangle: false,
-            headerIds: true
-        });
+        marked.use({ gfm: true });
+        marked.use(markedGfmHeadingId.gfmHeadingId());
         // ====================================================================
 
 

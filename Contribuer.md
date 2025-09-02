@@ -1,6 +1,16 @@
 # Comment contribuer ?
 
-Si vous voyez une erreur ou si vous voulez mettre à jour ce guide :
+## Vous avez trouvé une erreur ?
+
+Si vous voyez une erreur, vous pouvez ouvrir une issue sur GitHub :
+[https://github.com/CETEN-BDE/TN-User-Guide/issues](https://github.com/CETEN-BDE/TN-User-Guide/issues)
+
+Si vous ne savez pas comment ouvrir une issue :
+[https://docs.github.com/fr/issues/tracking-your-work-with-issues/using-issues/creating-an-issue](https://docs.github.com/fr/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)
+
+## Vous voulez corriger une erreur ou ajouter un guide ?
+
+Si vous voulez mettre à jour ce guide :
 [https://github.com/CETEN-BDE/TN-User-Guide](https://github.com/CETEN-BDE/TN-User-Guide)
 
 Si vous ne savez pas comment contribuer à un projet open source :
